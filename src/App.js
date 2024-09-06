@@ -6,6 +6,10 @@ function App() {
     <>
       <a href='#'>Logo</a>
       <h1>Welcome to my website</h1>
+      <div className='container'>
+        <p>This is my first website </p>
+      </div>
+      <footer></footer>
     </>
   )
 }
